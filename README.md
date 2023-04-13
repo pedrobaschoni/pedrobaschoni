@@ -28,7 +28,7 @@
   
  <h1>Commits:</h1>
  
-   ![Snake animation](https://github.com/pedrobaschonipedrobaschoni/pedrobaschoni/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedrobaschoni/output/blob/output/github-contribution-grid-snake.svg)
  
  
 
