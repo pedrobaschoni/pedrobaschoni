@@ -20,11 +20,15 @@
   <a href = "mailto:pedro.baschoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <h1>Status:</h1>
-<div>
-  <a href="https://github.com/pedrobaschoni">
-<img height="150em" width="42%" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobaschoni4&show_icons=true&theme=ayu-mirage) -->
+   
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrobaschoni&theme=dracula" />
+   
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrobaschoni&theme=dracula" />
+
   
  <h1>Commits:</h1>
  
