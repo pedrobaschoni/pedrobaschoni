@@ -18,6 +18,7 @@
  <div> 
   <a href="https://www.instagram.com/peh_baschoni/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedro.baschoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://br.linkedin.com/in/pedro-baschoni-588222278" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h1>Status:</h1>
 <!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobaschoni4&show_icons=true&theme=ayu-mirage) -->
