@@ -2,6 +2,7 @@
 
 - 📚 | 5/8 Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 20 Years
+- 📩 | Mail of contact: p.baschoni@gmail.com
 
 
 <h1>🔥 Skills</h1>
