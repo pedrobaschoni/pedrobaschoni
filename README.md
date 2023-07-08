@@ -1,6 +1,6 @@
 <h1>Hi!, I'm Pedro Baschoni</h1>
 
-- 📚 | 5/8 Computer Science Student at IFSP-PEP 🇧🇷
+- 📚 | 6/8 Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 20 Years
 
 
