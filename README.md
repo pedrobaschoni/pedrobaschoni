@@ -26,8 +26,8 @@
    
 <div align="center">
   <a href="https://github.com/pedrobaschoni">
-    <img height="150em" width="30.3%" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10"/>
-     <img height="150em" width="30.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&hide=HTML&langs_count=10&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&show_icons=true&theme=onedark&count_private=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&theme=onedark&show_icons=true&count_private=true" />
    
  
 
