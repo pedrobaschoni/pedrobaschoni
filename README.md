@@ -28,8 +28,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrobaschoni&theme=dracula" />
    
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrobaschoni&theme=dracula" />
+  <img height="150em" width="30.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&hide=HTML&langs_count=10&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 
   
  <h1>Commits:</h1>
