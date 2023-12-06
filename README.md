@@ -26,8 +26,9 @@
    
 <div align="center">
   <a href="https://github.com/pedrobaschoni">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&show_icons=true&theme=onedark&count_private=true" />
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&theme=onedark&show_icons=true&count_private=true" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mause&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=10&bg_color=30,4c004c,000000" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mause&theme=radical&show_icons=true&count_private=true&bg_color=30,4c004c,000000" />
+
    
  
 
