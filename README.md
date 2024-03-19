@@ -27,8 +27,7 @@
    
 <div align="center">
   <a href="https://github.com/pedrobaschoni">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10" />
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&theme=dracula&show_icons=true&count_private=true" />
+    <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10" />
 
 
 
