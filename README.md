@@ -28,7 +28,7 @@
 <div align="center">
   <a href="https://github.com/pedrobaschoni">
     <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10" />
-    <img alt="Top Langs" height="200px" src="https://streak-stats.demolab.com/?user=feliipenevesnow&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
+    <img alt="Top Langs" height="200px" src="https://streak-stats.demolab.com/?user=pedrobaschoni&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
 
 
 
