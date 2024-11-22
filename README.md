@@ -34,10 +34,12 @@
 <h1>Status:</h1>
 <!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobaschoni4&show_icons=true&theme=ayu-mirage) -->
    
-<div align="center">
-  <a href="https://github.com/pedrobaschoni">
-    <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10" />
-   <!-- ! <img alt="Top Langs" height="200px" src="https://streak-stats.demolab.com/?user=pedrobaschoni&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/> -->
+<div>
+  <a href="https://github.com/pedrobaschoni/pedrobaschoni/">
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&show_icons=true&theme=obsidian&border_radius=1.7em" />
+    
+  <img height="190em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&theme=obsidian&border_radius=1em" />
+</div> 
 
 
 
