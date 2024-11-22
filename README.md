@@ -38,7 +38,7 @@
   <a href="https://github.com/pedrobaschoni/pedrobaschoni/">
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&show_icons=true&theme=obsidian&border_radius=1.7em" />
     
-  <img height="190em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&layout=compact&theme=obsidian&border_radius=1em" />
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&hide=HTML&langs_count=10&layout=compact&theme=obsidian&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 </div> 
 
 
