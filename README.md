@@ -1,7 +1,7 @@
 <h1>Hi!, I'm Pedro Baschoni</h1>
 
 - 📚 | I'm a Computer Science student at IFSP-PEP. 🇧🇷
-- 📅 | 21 Years
+- 📅 | 23 Years
 
 
 <h1>🔥 Skills</h1>
@@ -31,22 +31,6 @@
   <a href = "mailto:p.baschoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://br.linkedin.com/in/pedro-baschoni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<h1>Status:</h1>
-<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobaschoni4&show_icons=true&theme=ayu-mirage) -->
-   
-<div>
-  <a href="https://github.com/pedrobaschoni/pedrobaschoni/">
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=pedrobaschoni&show_icons=true&theme=obsidian&border_radius=1.7em" />
-    
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobaschoni&hide=HTML&langs_count=10&layout=compact&theme=obsidian&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
-</div> 
-
-
-
-   
- 
-
-  
  <h1>Commits:</h1>
 
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedrobaschoni/pedrobaschoni/output/github-contribution-grid-snake-dark.svg" />
